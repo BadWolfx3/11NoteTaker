@@ -2,6 +2,8 @@
 var express = require('express');
 var fs = require('fs');
 var path = require('path');
+var apiRoutes = require('./routes/apiroutes.js');
+var htmlRoutes = require('./routes/htmlroutes.js');
 
 // initialize express
 var app = express();
@@ -13,6 +15,9 @@ app.use(express.urlencoded({
 }));
 app.use(express.json());
 app.use(express.static(__dirname));
+app.use("/api", apiRoutes);
+app.use("/", htmlRoutes);
+
 
 // set up listener
 app.listen(PORT, function () {
