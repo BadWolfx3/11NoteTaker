@@ -9,9 +9,9 @@ An application that can be used to write, save, and delete notes. Uses an expres
 * JavaScript
 
 ## Deployed Application
--
+- https://note-taker-11-app.herokuapp.com/
 
 ## Screenshots
-![First Screenshot](/Develop/Assets/Images/NT1.png)
-![Second Screenshot](/Develop/Assets/Images/NT2.png)
-![Third Screenshot](/Develop/Assets/Images/NT3.png)
+![First Screenshot](/Assets/Images/NT1.png)
+![Second Screenshot](/Assets/Images/NT2.png)
+![Third Screenshot](/Assets/Images/NT3.png)
