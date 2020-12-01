@@ -12,6 +12,6 @@ An application that can be used to write, save, and delete notes. Uses an expres
 -
 
 ## Screenshots
-![First Screenshot](/Assets/Images/NT1.png)
-![Second Screenshot](/Assets/Images/NT2.png)
-![Third Screenshot](/Assets/Images/NT3.png)
+![First Screenshot](/Develop/Assets/Images/NT1.png)
+![Second Screenshot](/Develop/Assets/Images/NT2.png)
+![Third Screenshot](/Develop/Assets/Images/NT3.png)
